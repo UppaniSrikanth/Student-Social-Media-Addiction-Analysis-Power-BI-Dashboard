@@ -56,4 +56,4 @@ This project presents a **data-driven analysis** of student social media usage a
 ## 👨‍💻 Created By
 **Mr. Srikanth**  
 MBA (Finance) | Power BI Developer | SQL & Data Analyst Enthusiast  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/)  
+📫 Connect with me on [LinkedIn] : https://www.linkedin.com/in/uppani-srikanth/  
